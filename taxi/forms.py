@@ -57,5 +57,3 @@ def license_number_validation(license_number: str) -> str:
         )
 
     return license_number
-
-
